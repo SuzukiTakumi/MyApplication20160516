@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApplication20160516</string>
+    <string name="main_activity_text">Hello. This is Main Activity!!</string>
+    <string name="intent_button_text">Go Next</string>
+    <string name="another_activity_text">This is Another Activity!!</string>
+    <string name="back_button_text">Back</string>
+</resources>
